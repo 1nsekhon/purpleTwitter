@@ -12,12 +12,12 @@ The following **required** functionality is completed:
 - [X] User can log in. (1pt)
 - [X] User can log out. (1pt)
 - [X] User stays logged in across restarts. (1pt)
-- [X] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 The following **bonus** features are implemented:
 
-- [X] User can pull to refresh. (1pt)
-- [X] User can load past tweets infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
